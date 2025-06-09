@@ -1,2 +1,3 @@
-# trail-titans
-Hillclimb Racing inspired game built using Unity
+# Trail Titans
+
+Hillclimb Racing inspired game built using Unity Engine.
